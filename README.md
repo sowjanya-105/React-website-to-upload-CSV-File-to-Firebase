@@ -7,10 +7,11 @@
 *Firebase* is one of the most popular BaaS because of its amazing capabilities and ability to setup a serverless backend in seconds. 
 However, it is complex to upload bulks of existing data as it lacks such tools in the console. 
 So, I've built a really simple web app that reads .CSV file and performs the upload via Firebase REST API.
+<br />
 
 ### FUNCTIONALITY:
 To allow the user to upload CSV file that will be updated immediately into the Realtime Database in Firebase.
-
+<br />
 
 ### TOOLS USED:
 * React js
@@ -19,13 +20,14 @@ To allow the user to upload CSV file that will be updated immediately into the R
  1. react-dropzone (for the user to drop .csv file)
  2. csv (to read the csv file)
 
-### DEMO
+### DEMO:
 <img src="/Images/UI.png"/> 
+<br />
 <img src="/Images/Firebase.png"/>  
 
-## CONTRIBUTING:
+### CONTRIBUTING:
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
-
+<br />
 * Fork the Project
 * Create your Feature Branch
 * Commit your Changes
@@ -33,5 +35,4 @@ Contributions are what make the open source community such an amazing place to b
 * Open a Pull Request
 <br />
 
-
-
+_Hit the star and feel free to contribute to this repository if you like this website!_
