@@ -20,8 +20,8 @@ To allow the user to upload CSV file that will be updated immediately into the R
  2. csv (to read the csv file)
 
 ### DEMO
-<img src="UI.png"/> 
-<img src="firebase.png"/>  
+<img src="/Images/UI.png"/> 
+<img src="/Images/Firebase.png"/>  
 
 ## CONTRIBUTING:
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
